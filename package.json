@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abi-Gopi/Hello-nodejs.git"
+    "url": "git+https://github.com/johnpapa/node-hello.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abi-Gopi/Hello-nodejs/issues"
+    "url": "https://github.com/johnpapa/node-hello/issues"
   },
-  "homepage": "https://github.com/Abi-Gopi/Hello-nodejs"
+  "homepage": "https://github.com/johnpapa/node-hello#readme"
 }
